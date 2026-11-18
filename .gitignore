@@ -1,0 +1,5 @@
+/KeyDebounce.exe
+/KeyDebounceSetup.msi
+/.msi-build-*/
+/bin/
+/obj/
